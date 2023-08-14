@@ -24,9 +24,7 @@
 
 ###### win10测试环境（二开后）
 
-![image-20230814170403200]([ATAttack/doc/attack.png at main · lincso/ATAttack (github.com)](https://github.com/lincso/ATAttack/blob/main/doc/attack.png)
-
-
+![image-20230814170403200](https://s3.bhimgs.com/i/2023/08/14/sdsayn.png)
 
 ##### 使用方法
 
